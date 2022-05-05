@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rupasappati
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Linux, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
